@@ -6,6 +6,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { appDescriptions } from "../../utils/appDescriptions";
+import { topicDescriptions } from "../../utils/topicDescriptions";
 import { FaLinkedin, FaYoutube } from "react-icons/fa";
 
 export async function getStaticProps() {
@@ -37,10 +38,14 @@ export async function getStaticProps() {
       "utf-8"
     );
     const { data } = matter(markdownWithMeta);
+    const topicName = filename.replace(/\.md$/, "");
     return {
       ...data,
-      url: `/topics/${filename.replace(".md", "")}`,
+      url: `/topics/${topicName}`,
       type: "topic",
+      description:
+        topicDescriptions[topicName] ||
+        `Description for ${data.title || topicName}`,
     };
   });
 
