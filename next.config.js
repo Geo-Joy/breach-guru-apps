@@ -1,9 +1,7 @@
-const path = require("path");
-
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   reactStrictMode: true,
-  webpack: (config) => {
-    config.resolve.alias["@/apps"] = path.join(__dirname, "apps");
-    return config;
-  },
+  swcMinify: true,
 };
+
+module.exports = nextConfig;
