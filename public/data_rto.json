@@ -1,0 +1,121 @@
+[
+  {
+    "name": "KA 01",
+    "lat": 12.9304865,
+    "lon": 77.6201225,
+    "address": "Bangalore Central, Koramangala, BDA Complex, 3 – Block, Bangalore",
+    "vehicles": 206120
+  },
+  {
+    "name": "KA 02",
+    "lat": 12.9939049,
+    "lon": 77.5516386,
+    "address": "Bangalore (West) Rajajinagar Shopping Complex, Bangalore",
+    "vehicles": 273062
+  },
+  {
+    "name": "KA 03",
+    "lat": 12.9816065,
+    "lon": 77.6346126,
+    "address": "Bangalore (East) 2nd Floor BDA Complex, Indiranagar, Bangalore",
+    "vehicles": 284880
+  },
+  {
+    "name": "KA 04",
+    "lat": 13.0001775,
+    "lon": 77.5408423,
+    "address": "Bangalore (North) 3rd Floor Shopping Complex, RLY Stn. Rd, Yeswanthapura, BLR",
+    "vehicles": 270428
+  },
+  {
+    "name": "KA-05",
+    "lat": 12.9300408,
+    "lon": 77.5782268,
+    "address": "Bangalore (South) Jayanagar Shopping Complex, 4th Block, Jayanagar, Bangalore",
+    "vehicles": 299702
+  },
+  {
+    "name": "KA-09",
+    "lat": 12.2986302,
+    "lon": 76.6116662,
+    "address": "MG Road, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570004",
+    "vehicles": 147068
+  },
+  {
+    "name": "KA-41",
+    "lat": 12.961353,
+    "lon": 77.4823661,
+    "address": "No.27/A, 26/2,27/2, Kenchenahalli Grama, Jnanabharati, RVCE Post, Mysore Road, Bangalore - 560056",
+    "vehicles": 87272
+  },
+  {
+    "name": "KA-42",
+    "lat": 12.8032462,
+    "lon": 77.2332801,
+    "address": "SH17, Vijaya Nagar, Ramanagara, Karnataka - 562159",
+    "vehicles": 81182
+  },
+  {
+    "name": "KA-43",
+    "lat": 13.254857,
+    "lon": 77.6922672,
+    "address": "Vijayapura Road, Devanahalli - 562110",
+    "vehicles": 48251
+  },
+  {
+    "name": "KA-50",
+    "lat": 13.1337071,
+    "lon": 77.4008848,
+    "address": "2019A, 1st Floor, 3rd Cross, Karnataka Housing Board Complex, Sector - B, Yelahanka New Town, Bangalore - 560064",
+    "vehicles": 63480
+  },
+  {
+    "name": "KA-51",
+    "lat": 12.8872037,
+    "lon": 77.6087611,
+    "address": "83/63, New Central Jail Rd, Opp: New Mico LTD, Chennakeshavanagar, Bangalore - 560100",
+    "vehicles": 150536
+  },
+  {
+    "name": "KA-52",
+    "lat": 12.8487545,
+    "lon": 77.6540684,
+    "address": "1906, 9th Cross, Subhas Road, Nelamangala, Bangalore - 562123",
+    "vehicles": 19425
+  },
+  {
+    "name": "KA-53",
+    "lat": 13.0065624,
+    "lon": 77.6949454,
+    "address": "345/4, Bhattarahall, Old Madras Road, K.R.Puram, Bangalore - 560016",
+    "vehicles": 128160
+  },
+  {
+    "name": "KA-57",
+    "lat": 12.9534324,
+    "lon": 77.5945907,
+    "address": "Regional Transport office, STU, and Autorikshaws,  Shanthinagar, BANGALORE - 560027",
+    "vehicles": 0
+  },
+  {
+    "name": "KA-59",
+    "lat": 12.7611811,
+    "lon": 77.5503414,
+    "address": "Chandapura, Bangalore - 562106",
+    "vehicles": 2186
+  },
+  {
+    "name": "KA-55",
+    "lat": 12.3369542,
+    "lon": 76.6358037,
+    "address": "Ring Rd, opposite of Narayana multi speciality hospital, Sathgalli, Hanchya, Karnataka",
+    "vehicles": 80357
+  },
+  {
+    "name": "KA-45",
+    "lat": 12.3145412,
+    "lon": 76.2801208,
+    "address": "Assistant Regional Transport office, Cauvery Irrigation Nigama, No.1, HRBC Building, Hunsur-571105",
+    "vehicles": 44232
+  }
+]
